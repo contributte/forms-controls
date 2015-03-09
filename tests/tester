@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+sh ../vendor/bin/tester Forms -s -j 40 -log forms.log $@
+rm "./tmp" -f -R
