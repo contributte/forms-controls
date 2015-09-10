@@ -1,7 +1,7 @@
 # Forms
 
 [![Build Status](https://travis-ci.org/minetro/forms.svg?branch=master)](https://travis-ci.org/minetro/forms)
-[![Downloads this Month](https://img.shields.io/packagist/dm/minetro/forms.svg?style=flat)](https://packagist.org/packages/minetro/forms)
+[![Downloads total](https://img.shields.io/packagist/dt/minetro/forms.svg?style=flat)](https://packagist.org/packages/minetro/forms)
 [![Latest stable](https://img.shields.io/packagist/v/minetro/forms.svg?style=flat)](https://packagist.org/packages/minetro/forms)
 [![HHVM Status](https://img.shields.io/hhvm/minetro/forms.svg?style=flat)](http://hhvm.h4cc.de/package/minetro/forms)
 
