@@ -15,8 +15,8 @@ Controls and extensions for Nette/Forms.
 
 ## Install
 
-```sh
-$ composer require minetro/forms:~1.0.0
+```bash
+composer require minetro/forms:~1.0.0
 ```
 
 ## TOC
