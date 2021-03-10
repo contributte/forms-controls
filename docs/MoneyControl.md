@@ -16,13 +16,13 @@ Minetro\Forms\Controls\Money::register();
 use Nette\Application\UI\Form;
 
 protected function createComponentForm() {
-    $form = new Form();
-    
-    $form->addMoney('money', 'Your cashflow:');
-    $form->addSubmit('Merge');
-    $form->onSuccess[] = callback($this, 'process');
-    
-    return $form;
+	$form = new Form();
+
+	$form->addMoney('money', 'Your cashflow:');
+	$form->addSubmit('Merge');
+	$form->onSuccess[] = callback($this, 'process');
+
+	return $form;
 }
 ```
 

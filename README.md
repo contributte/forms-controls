@@ -28,5 +28,3 @@ Add HTML to your form.
 ### [MoneyControls](https://github.com/minetro/forms/tree/master/docs/MoneyControl.md)
 
 Handle money/number inputs.
-
-
