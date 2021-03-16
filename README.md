@@ -15,8 +15,8 @@ Controls and extensions for Nette/Forms.
 
 ## Install
 
-```sh
-$ composer require minetro/forms:~1.0.0
+```bash
+composer require minetro/forms:~1.0.0
 ```
 
 ## TOC
@@ -28,5 +28,3 @@ Add HTML to your form.
 ### [MoneyControls](https://github.com/minetro/forms/tree/master/docs/MoneyControl.md)
 
 Handle money/number inputs.
-
-
