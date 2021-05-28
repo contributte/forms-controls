@@ -4,4 +4,4 @@ install:
 	composer update
 
 tests:
-	bash tests/run-tests.sh php tests/Forms
+	vendor/bin/tester -s -p php --colors 1 -C tests/Forms
