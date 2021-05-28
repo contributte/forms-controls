@@ -1,7 +1,7 @@
-.PHONY: install qa cs csf phpstan tests coverage-clover coverage-html
+.PHONY: install tests
 
 install:
 	composer update
 
 tests:
-	vendor/bin/tester tests/Forms -s -p php
+	vendor/bin/tester -s -p php --colors 1 -C tests/Forms
